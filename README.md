@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Wadoud! I am a Physics Intergrated Masters Graduate from Imperial College London. 
-- 👀 I’m interested in Quantitative Research and Analysis and am also very interested in simulations.
-- 🌱 I’m currently learning advanced numerical techniques in Python and have also learnt a bit of C++ on the side.
-
+- 👋 Hi, I'm Wadoud! I'm an MSci Physics graduate from Imperial College London, working in quantitative research and development.
+- 📈 Most recently I built a production pricing engine at an algorithmic market maker. Before that, at KAUST, I worked on multilevel Monte Carlo methods for high-dimensional option pricing.
+- 👀 I'm interested in quantitative research and analysis, numerical methods, and simulation of all kinds.
+- 🤖 I build with AI every day. My whole workflow runs through Claude, including reusable agent instructions that encode a codebase's conventions, and I've trained and accelerated neural networks in PyTorch and JAX.
+- 🛠️ Mostly Python (NumPy, JAX, PyTorch, FastAPI, PostgreSQL) and SQL, with some C++ on the side.
+- 📫 Best place to reach me is [LinkedIn](https://www.linkedin.com/in/wadoud-charbak).
